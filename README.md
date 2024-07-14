@@ -14,7 +14,6 @@ product managers, and other developers to bring creative ideas to life.
 I am  dedicated to staying current with the latest industry trends and continuously improving their skills to deliver the best possible solutions for clients and users.
 
 
-### Hi there 👋, my name is irakose serge
 ![](https://en.idei.club/uploads/posts/2023-06/thumbs/1687320085_en-idei-club-p-programming-background-dizain-pinterest-6.jpg)
 
 
