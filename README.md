@@ -1,4 +1,6 @@
    ### HI my names are irakoze serge and am talented web developer with 
+   ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 a passion for creating dynamic and user-friendly websites.
 With a strong background in "HTML, CSS, and JavaScript and tailwind"  and i have  developed numerous websites .
 
