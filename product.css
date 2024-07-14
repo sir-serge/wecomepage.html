@@ -1,0 +1,55 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: serif;
+    box-sizing: border-box;
+}
+
+
+.head{
+    display: flex;
+    justify-content: center;
+    gap: 4vh;
+    align-items: center;
+    flex-direction: row;
+}
+.login{
+    display: flex;
+    justify-self: end;
+}
+.tabs{
+    display: flex;
+    gap: 4vh;
+}
+
+
+.shoe{
+    width: 19vh;
+    height: 19vh;
+}
+.prodcucts{
+    padding-left: 90px;
+    padding-right: 60px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    /* background-color: teal; */
+    gap: 3vh;
+
+}
+.product{
+    display: flex;
+    justify-content: center;
+}
+[class^="box-"]{
+    background-color: peru;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 50vh;
+    width: 40vh;
+
+}
+.product-details{
+    display: flex;
+    flex-direction: column;
+}

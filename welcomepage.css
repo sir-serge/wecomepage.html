@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: serif;
+    box-sizing: border-box;
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    height: 100vh;
+    background-image: url(photo/pink-purple-texture-abstract.jpg);
+
+}
+/* section{
+    width: 100%;
+    height: 10vh;
+    background-image: url(photo/pink-purple-texture-abstract.jpg);
+    background-size: cover;
+    background-position:  center;
+} */
+
+
+
+.head{
+    /* background-color: lightblue; */
+    display: flex;
+    justify-content: space-around;
+    gap: 5px;
+    position: sticky;
+    left: 0;
+    right: 0;
+}
+
+
+.shop-toolbar{
+    /* background-color: rgb(230, 173, 214); */
+    display: flex;
+    font-size: 30px;
+    gap: 30px;
+    align-self: center;
+    justify-self: center;
+    list-style-type: none;
+    flex-basis: 55%;
+}
+.toolbars{
+    color:  #791484;
+
+}
+.name{
+    /* background-color: indigo; */
+    flex-basis: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.shop-icons{
+    display: flex;
+    flex-basis: 35%;
+    gap: 30px;
+    align-items: flex-end;
+    justify-content:flex-end ;
+    /* background-color: greenyellow; */
+    padding-right: 100px;
+}
+
+
+.main-section{
+    display: flex;
+    justify-content: space-around;
+}
+.text{
+    display: flex;
+    align-items: center;
+    flex-basis: 50%;
+    flex-direction: column;
+    justify-content: center;
+}
+.random{
+    padding-left: 50px;
+}
+.brand{
+    font-family:cursive ;
+    font-size: 70px;
+    font-weight: lighter;
+    color:  #791484;;
+}
+.big-shoe{
+    flex-basis:60%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.shoe{
+    width: 700px;
+    transform:rotateY(180deg) ;
+}
+.media{
+    /* background-color: #2e973e; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 2;
+    align-items: end;
+    height:90.5vh;
+    flex-basis: 5%;
+}
+.icon{
+    height: 50px;
+    align-items: center;
+}
+button{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20PX;
+    border-radius: 15px;
+    padding: 2px;
+    background-color: rgb(166, 217, 249);
+}
+
+
+
+
+a:link { 
+    text-decoration: none; 
+    color: #791484;
+  } 
+
+
