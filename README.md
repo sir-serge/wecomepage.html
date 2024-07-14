@@ -13,3 +13,6 @@ product managers, and other developers to bring creative ideas to life.
 
 I am  dedicated to staying current with the latest industry trends and continuously improving their skills to deliver the best possible solutions for clients and users.
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sir-serge)](https://github.com/anuraghazra/github-readme-stats)
+
